@@ -6,7 +6,7 @@
     return i;
 }
 
-int newSumm(int num, int numberLenght)
+int newSumm(int num, int numberLenght) //Сложение цифр
 {
     int temp = 0;
     for (int i = 0; i <= numberLenght; i++)
