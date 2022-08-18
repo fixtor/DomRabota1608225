@@ -1,4 +1,5 @@
-﻿int newPow(int number, int degree)
+﻿//number - число, degree - степень
+int newPow(int number, int degree)
 {
     int temp = number;
     for (int i = 1; i < degree; i++)
